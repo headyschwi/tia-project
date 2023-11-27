@@ -1,4 +1,4 @@
-#🧬 Detecção de Câncer de Mama usando Aprendizado de Máquina
+# 🧬 Detecção de Câncer de Mama usando Aprendizado de Máquina
 
 ## 📝 Descrição
 Este projeto utiliza técnicas de aprendizado de máquina para otimizar o diagnóstico de câncer de mama. Com base no conjunto de dados "Breast Cancer Wisconsin (Diagnostic)", desenvolvemos um modelo para classificar tumores como benignos ou malignos. Este trabalho abrange análise exploratória, pré-processamento, seleção de características, construção e avaliação do modelo.
